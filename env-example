@@ -1,0 +1,7 @@
+# OMDB
+apikey_omdb = "d290bca4"
+
+# DB
+db_name = "jdbc:postgresql://localhost/alura_series"
+db_username = "postgres"
+db_password = "password"
